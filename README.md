@@ -4,7 +4,7 @@ kaggleの株価予測コンペにて作成・使用したipynb(PyhonNotebook)の
 時系列予測の勉強のアウトプットを目的に気楽に参加しました。
 
  
-①fasebookのオープンソース時系列予測プログラムである「prophet」を利用したipynb 
+①facebookのオープンソース時系列予測プログラムである「prophet」を利用したipynb 
 
  
 ②時系列予測アルゴリズムである　transformer を自然言語処理ではなく株価予測に利用できるように組み換えたipynb
